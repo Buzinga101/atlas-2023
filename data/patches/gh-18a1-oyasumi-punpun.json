@@ -1,0 +1,44 @@
+{
+	"id": -1,
+	"name": "Oyasumi Punpun",
+	"description": "Silly birb from the not so silly manga Oyasumi Punpun, written by Inio Asano ",
+	"links": {
+		"website": [
+			"https://myanimelist.net/people/2836/Inio_Asano",
+			"https://myanimelist.net/manga/4632/Oyasumi_Punpun"
+		],
+		"subreddit": [
+			"OyasumiPunpun"
+		],
+		"discord": [
+			"evQbFmbRGZ",
+			"reG6DfvUcg"
+		]
+	},
+	"path": {
+		"": [
+			[
+				-770,
+				403
+			],
+			[
+				-770,
+				368
+			],
+			[
+				-787,
+				368
+			],
+			[
+				-787,
+				403
+			]
+		]
+	},
+	"center": {
+		"": [
+			-778,
+			386
+		]
+	}
+}
